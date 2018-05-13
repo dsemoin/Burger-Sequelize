@@ -1,0 +1,38 @@
+.container {
+    background: url("../img/Gourmet-Classic.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+
+body {
+    background-color: rgb(212, 236, 236);
+}
+
+.burgerlist {
+    float: left;
+    padding-right: 50%;
+}
+
+.burgers {
+    font-size: 150%;
+}
+
+.modlist {
+    float: right;
+    font-size: 100%;
+}
+
+.row {
+    padding-top: 10%;
+}
+
+.devour {
+    display: inline;
+    margin: 5px;
+}
+
+#logger {
+    text-align: center;
+    border: 5px solid black
+}
